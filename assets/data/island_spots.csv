@@ -1,0 +1,24 @@
+id,name,area,category,conversation_level,description,notes,reference,instagram,google_maps_url
+spot_001,大崎上島観光協会,大崎,info,high,"島の中心的な観光案内所。地元の情報やイベントの最新情報がもらえる。","不定休・イベント情報は案内所で要確認","観光協会風待ちナビ","","https://www.google.com/maps/place/%E5%A4%A7%E5%B4%8E%E4%B8%8A%E5%B3%B6%E7%94%BA%E8%A6%B3%E5%85%89%E6%A1%88%E5%86%85%E6%89%80/@34.2694028,132.9119074,936m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3550416504163a3b:0x171f7fc686bf5216!8m2!3d34.2693984!4d132.9144823!16s%2Fg%2F11c1xfmdfq?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D"
+spot_002,Shiki Farm Shiki Café,大崎,cafe,high,"果物農園Shiki Farmのカフェ。季節の果実を使ったスイーツやドリンク、芝生のスペースでのんびり過ごせる。","営業日はSNS等で確認推奨","Shiki Farm公式","",https://www.google.com/maps/place/Shiki+Farm/@34.2371161,132.884713,936m/data=!3m2!1e3!4b1!4m6!3m5!1s0x355041a408a15abf:0x90c164f504313147!8m2!3d34.2371117!4d132.8872879!16s%2Fg%2F11t49xrs1k?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_003,ミカタカフェ,大崎,cafe,medium,"高校生発のカフェ＋イベントスペース。コーヒーやスイーツで島時間を楽しめる。","最新営業はSNS/公式で確認推奨","ミカタカフェ公式","",https://www.google.com/maps/place/%E3%83%9F%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%95%E3%82%A7/@34.2428845,132.8857292,936m/data=!3m2!1e3!4b1!4m6!3m5!1s0x355041a19633ea27:0xad43dc4d462602f2!8m2!3d34.2428801!4d132.8883041!16s%2Fg%2F11rcxn5n81?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_004,takemoto curry,大崎,food,medium,"島の野菜とスパイスを使ったスパイスカレーのお店。ランチ人気。","木・土・日曜日営業との情報ありが変動あり","風待ちの島ナビ","",https://www.google.com/maps/place/takemoto_curry/@34.2487382,132.8579257,7444m/data=!3m1!1e3!4m10!1m2!2m1!1stakemoto!3m6!1s0x355041e961ad8325:0xdf5525ae41630b1f!8m2!3d34.2432474!4d132.8896774!15sCgh0YWtlbW90b1oKIgh0YWtlbW90b5IBGWphcGFuZXNlX2N1cnJ5X3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUjRiMDF4Y0V0UkVBReABAPoBBQj0AhAf!16s%2Fg%2F11jyk8vjk3?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_005,Kumata,大崎,food,medium,"大崎エリアの和食レストラン。季節の御膳や地元食材料理を楽しめる。","営業日・時間は店舗に要確認","食べログ情報","",
+spot_006,陶（珈琲 陶）,大崎,cafe,medium,"島の喫茶店。コーヒーと軽食を提供。","情報は少なく、現地確認推奨","食べログ情報","",https://www.google.com/maps/place/%E7%8F%88%E7%90%B2+%E9%99%B6/@34.2479099,132.9097458,936m/data=!3m2!1e3!4b1!4m6!3m5!1s0x35504104d395eeb9:0xfdbed2fa3c079673!8m2!3d34.2479055!4d132.9123207!16s%2Fg%2F11hbqchc89?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_007,ShikiFarmマルシェ,大崎,market,medium,"Shiki Farmのマルシェ。島の産直野菜や加工品を販売する。","季節によってラインナップ変更あり","Shiki Farm公式","",https://www.google.com/maps/place/Shiki+Farm/@34.2371161,132.884713,936m/data=!3m2!1e3!4b1!4m6!3m5!1s0x355041a408a15abf:0x90c164f504313147!8m2!3d34.2371117!4d132.8872879!16s%2Fg%2F11t49xrs1k?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_008,フィッシャーマンズマーケット,大崎,market,medium,"地元海産物を扱うマーケット的スポット。新鮮な魚介が魅力。","開催・在庫は日による","観光協会MAP","",
+spot_009,大串朝市,大崎,market,medium,"週末などに開かれる朝市。地元の農産物・海産物が並ぶ。","開催日はカレンダー確認推奨","観光MAP","",https://www.google.com/maps/place/%E5%A4%A7%E5%B4%8E%E5%86%85%E6%B5%A6%E6%BC%81%E6%A5%AD%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88/@34.2447966,132.851498,7487m/data=!3m1!1e3!4m10!1m2!2m1!1z5aSn5Liy5pyd5biC!3m6!1s0x3550403153951319:0x802e3803c2e7e23c!8m2!3d34.2510429!4d132.8781828!15sCgzlpKfkuLLmnJ3luIJaDyIN5aSn5LiyIOacneW4gpIBDmxpdmVyeV9jb21wYW55mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5xTVhWNlMzTkJSUkFC4AEA-gEECAAQFA!16s%2Fg%2F1tdppgqf?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoASAFQAw%3D%3D
+spot_010,大崎 千代,大崎,shop,low,"大崎地区の商店。島の人との会話やお菓子類等の購入ができる可能性あり。","詳細営業時間は直接確認","観光協会","",
+spot_011,大崎 浜本商店,大崎,shop,low,"地元商店。島の暮らしに触れられる小さなお店。","営業時間は現地/連絡先確認推奨","観光協会","",
+spot_012,大崎 花崎商店,大崎,shop,low,"昔ながらの商店。島の食や日用品を扱う。","SNS/現地確認推奨","観光協会","",
+spot_013,大崎 HOGARAKA,大崎,shop,low,"雑貨・体験系のショップ。小物や島の暮らし系商品があるかも。","詳細はSNS/現地で","観光協会","",
+spot_014,大崎 PORTAL,大崎,shop,medium,"大崎にある交流スペース・ショップ。地域の情報拠点としても面白い。","営業日要確認","観光協会","",
+spot_015,大崎 岡本酒店,大崎,shop,low,"地元の酒店。お土産購入や島の人との会話があるかもしれない。","詳細営業は現地確認","観光協会","",
+spot_016,大崎 青木ミート,大崎,shop,low,"精肉店。島の食文化を知るきっかけに。","最新営業時間は現地/店舗確認","観光協会","",
+spot_017,大崎 秀ちゃん農園,大崎,farm,medium,"地元農園。野菜・果物の生産体験・販売をしている可能性あり。","訪問前に連絡確認推奨","観光協会","",
+spot_018,大崎 トイセンター松原,大崎,shop,low,"雑貨・日用品系の地元商店。","営業時間要確認","観光協会","",
+spot_019,木江 悠,木江,shop,low,"木江地区のショップ。島の暮らし系商品を扱う可能性あり。","確認推奨","観光協会","",
+spot_020,木江 沖浦ショップ,木江,shop,low,"木江地区のショップ。","確認推奨","観光協会","",
+spot_021,木江 明石ストアー,木江,shop,low,"古くからある木江の商店。","確認推奨","観光協会","",
+spot_022,Okushi Campsite & Beach,大崎,nature,medium,"大崎上島の人気ビーチ＆キャンプ場。海水浴・カヤック等のアクティビティが楽しめる。","アクティビティは季節/時間で変動あり","観光情報","",
+spot_023,Kinoe Onsen Hotel Seifukan,大崎,onsen,medium,"瀬戸内海を見渡せる絶景温泉付きホテル。休憩・宿泊利用で島の自然を満喫。","営業状況は施設公式確認推奨","観光情報","",
